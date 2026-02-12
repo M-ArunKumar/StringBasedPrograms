@@ -2,6 +2,9 @@ package Strings;
 
 import java.util.*;
 
+// input : arunn
+// output: a-1, r-1, u-1, n-2
+
 public class charOccurance1 {
     static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
